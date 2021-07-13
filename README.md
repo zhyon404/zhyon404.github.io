@@ -1,10 +1,15 @@
 # TODO
 
 rxjava并发模型和goroutine比较
+
 维护清晰的git history
+
 go中测试时间
+
 中间件存储模型比较
+
 中间件高可用方案比较
+
 
 
 ## Welcome to GitHub Pages
