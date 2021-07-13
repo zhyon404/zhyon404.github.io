@@ -1,3 +1,12 @@
+# TODO
+
+rxjava并发模型和goroutine比较
+维护清晰的git history
+go中测试时间
+中间件存储模型比较
+中间件高可用方案比较
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/zhyon404/zhyon404.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
