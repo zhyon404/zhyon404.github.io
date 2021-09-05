@@ -19,7 +19,7 @@ api设计
   业务需求
   to B
 
-
+mysql postgres防止幻读的区别。
 
 
 ## Welcome to GitHub Pages
