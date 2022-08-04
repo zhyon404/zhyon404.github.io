@@ -17,14 +17,16 @@ go性能优化trick
 普罗米修斯长期存储比较
 
 api设计
-  前后端需求
-  业务需求
-  to B
+
+-  前后端需求
+-  业务需求
+-  to B
 
 mysql postgres防止幻读的区别。
 
-observability for 
+observability for service
 
+kubelet plugin for gops
 
 ## Welcome to GitHub Pages
 
